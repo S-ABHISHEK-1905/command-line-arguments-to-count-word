@@ -31,6 +31,7 @@ data=f1.read()
 word=data.split()
 print("The word count is",len(word))
 f1.close()
+
 ```
 
 ### OUTPUT:
